@@ -1,1 +1,2 @@
 Learning about git and version control using VS Studio terminal.
+Discovering how fun it actually is gives me chills doown my spine.
